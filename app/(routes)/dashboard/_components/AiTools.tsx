@@ -27,7 +27,7 @@ const aiToolsList = [
   {
     name: "Cover Letter Generator",
     desc: "Write a cover letter",
-    icon: "cover-letter.svg",
+    icon: "/cover-letter.svg",
     button: "Create Now",
     path: "/cover-letter-generator",
   },
