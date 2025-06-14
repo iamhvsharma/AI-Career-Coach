@@ -20,7 +20,7 @@ const aiToolsList = [
   {
     name: "AI Career Q&A Chat",
     desc: "Ask your Career related queries.",
-    icon: "qa.svg",
+    icon: "/qa.svg",
     button: "Let's Chat",
     path: "/ai-tools/ai-chat",
   },
